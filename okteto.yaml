@@ -11,5 +11,5 @@ destroy:
       command: echo "destroying some external resource"
     - name: sleep
       command: echo "sleeping for 20 seconds" && sleep 20
-    - name: fail command
-      command: asdgasgaerg
+    #- name: fail command
+    #  command: asdgasgaerg
